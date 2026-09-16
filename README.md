@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/Luna-botv6/Luna-Botv6-Project">
-  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/luna-botv6.png" alt="Luna Bot Logo" width="320" style="border-radius:30px; border: 3px solid #00fff7; box-shadow: 0 0 40px #00fff7;"/>
+  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/luna-botv6.png" alt="Luna Bot Logo" width="550" style="border-radius:30px; border: 3px solid #00fff7; box-shadow: 0 0 40px #00fff7;"/>
 </a>
 
 <br><br>
