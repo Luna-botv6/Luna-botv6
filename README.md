@@ -165,22 +165,22 @@ const LunaBot = {
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FFF7&center=true&vCenter=true&width=650&lines=Así+se+ve+una+conversación+real+con+Luna;Sin+comandos+raros+—+hablale+como+a+una+persona" alt="Demo" />
 
-<img src="src/assets/images/lm/lm_fly.webp" width="150"/>
+<img src="https://raw.githubusercontent.com/Luna-botv6/Luna-botv6/main/src/assets/images/lm/lm_fly.webp" width="150"/>
 
 <br><br>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="src/assets/images/demo/demo-ia.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Luna-botv6/Luna-botv6/main/src/assets/images/demo/demo-ia.svg" width="100%"/>
 <br><sub><b>💬 Conversación natural</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="src/assets/images/demo/demo-comando.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Luna-botv6/Luna-botv6/main/src/assets/images/demo/demo-comando.svg" width="100%"/>
 <br><sub><b>🎯 Comando por lenguaje natural</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="src/assets/images/demo/demo-juego.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Luna-botv6/Luna-botv6/main/src/assets/images/demo/demo-juego.svg" width="100%"/>
 <br><sub><b>👁️ Juego Veo Veo</b></sub>
 </td>
 </tr>
@@ -216,7 +216,7 @@ const LunaBot = {
 
 ## 🔐 Seguridad y Privacidad
 
-<img src="src/assets/images/lm/lm_face_happy.webp" width="150"/>
+<img src="https://raw.githubusercontent.com/Luna-botv6/Luna-botv6/main/src/assets/images/lm/lm_face_happy.webp" width="150"/>
 
 <br>
 
@@ -369,7 +369,7 @@ Ejemplo: `.setnamebot Luna IA 🤖`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=🤖+LUNA+IA+—+Inteligencia+Artificial;🌙+Hablale+Natural+·+Sin+Comandos;✨+Ella+Te+Entiende+Siempre" alt="Luna IA" />
 
-<img src="src/assets/images/lm/lm_wave.webp" width="170"/>
+<img src="https://raw.githubusercontent.com/Luna-botv6/Luna-botv6/main/src/assets/images/lm/lm_wave.webp" width="170"/>
 
 <br>
 
@@ -713,7 +713,7 @@ Luna tiene **dos capas de caché persistente** que sobreviven a reinicios del se
 
 ## 🎮 Juegos Disponibles
 
-<img src="src/assets/images/lm/lm_dance.webp" width="160"/>
+<img src="https://raw.githubusercontent.com/Luna-botv6/Luna-botv6/main/src/assets/images/lm/lm_dance.webp" width="160"/>
 
 </div>
 
