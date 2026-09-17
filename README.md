@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:8B5CF6&height=220&section=header&text=Luna%20Bot%20V6&fontSize=75&fontColor=00fff7&fontAlignY=35&desc=El%20Bot%20de%20WhatsApp%20más%20completo%20y%20poderoso&descAlignY=58&descColor=ffffff&animation=twinkling"/>
+<img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/luna_header.svg" alt="Luna Bot V6" width="100%" style="border-radius:30px;"/>
 
 <br>
 
