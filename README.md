@@ -203,6 +203,12 @@ const LunaBot = {
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_control_0_portada.png" alt="Torre de Control" width="550" style="border-radius:30px; border: 3px solid #8B5CF6; box-shadow: 0 0 40px #8B5CF6, 0 0 80px #00fff7;"/>
+
+</div>
+
 La **Torre de Control** es el panel web central de Luna: desde el navegador administrás el bot entero sin tocar el servidor. Ahí ves el **estado general** y las **descargas en vivo**, y gestionás **grupos y chats** (mensajes, funciones, participantes, encuestas, relé de canales y zona de riesgo), **usuarios** (ban, block y advertencias), **owners y LID**, **comandos custom**, **frases**, **música** (búsqueda central de YouTube + reproductor) y hasta **actualizás o reiniciás el bot en remoto**.
 
 La mascota de la torre te guía con **tips, tour y FAQ**, y todo el panel se conecta directo con los **agentes de Luna**: el agente de control coordina el estado y la supervisión del sistema.
