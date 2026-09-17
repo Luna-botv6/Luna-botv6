@@ -90,9 +90,9 @@
 | 🔗 Sección | 🔗 Sección | 🔗 Sección |
 |:---:|:---:|:---:|
 | [📋 En Resumen](#-en-resumen) | [✨ ¿Qué es Luna Bot?](#-qué-es-luna-bot) | [🎬 Miralo en Acción](#-miralo-en-acción) |
-| [⚖️ Luna vs Otros Bots](#️-luna-vs-otros-bots) | [🔐 Seguridad y Privacidad](#-seguridad-y-privacidad) | [🆕 Últimas Actualizaciones](#-últimas-actualizaciones) |
-| [🟢 Estado del Servicio](#-estado-del-servicio) | [🎮 Juegos](#-juegos-disponibles) | [🤖 Luna IA](#-luna-ia--inteligencia-artificial) |
-| [🌟 Características](#-características) | [🛰️ Torre de Control](#-torre-de-control--panel-web) | [🛣️ Roadmap](#️-roadmap) |
+| [🛰️ Torre de Control](#-torre-de-control--panel-web) | [⚖️ Luna vs Otros Bots](#️-luna-vs-otros-bots) | [🔐 Seguridad y Privacidad](#-seguridad-y-privacidad) |
+| [🆕 Últimas Actualizaciones](#-últimas-actualizaciones) | [🟢 Estado del Servicio](#-estado-del-servicio) | [🎮 Juegos](#-juegos-disponibles) |
+| [🤖 Luna IA](#-luna-ia--inteligencia-artificial) | [🌟 Características](#-características) | [🛣️ Roadmap](#️-roadmap) |
 | [🚀 Instalación Rápida](#-instalación-rápida) | [⚙️ Configuración](#️-configuración) | [⚡ Actualizaciones del Bot](#-sistema-de-actualización-inteligente) |
 | [🤝 Contribuir](#-contribuir) | [👨‍💻 Creador](#-creador) | [❤️ Apoyar el Proyecto](#️-apoyar-el-proyecto) |
 
@@ -190,6 +190,45 @@ const LunaBot = {
 > Estas son recreaciones ilustrativas de una conversación con Luna, armadas para mostrar el estilo de interacción. Pronto se subiran capturas reales.
 
 </div>
+
+---
+
+<div align="center">
+
+## 🛰️ Torre de Control — Panel Web
+
+<br>
+
+*Administrá a Luna desde un panel central: grupos, usuarios, comandos y mucho más.*
+
+</div>
+
+La **Torre de Control** es el panel web central de Luna: desde el navegador administrás el bot entero sin tocar el servidor. Ahí ves el **estado general** y las **descargas en vivo**, y gestionás **grupos y chats** (mensajes, funciones, participantes, encuestas, relé de canales y zona de riesgo), **usuarios** (ban, block y advertencias), **owners y LID**, **comandos custom**, **frases**, **música** (búsqueda central de YouTube + reproductor) y hasta **actualizás o reiniciás el bot en remoto**.
+
+La mascota de la torre te guía con **tips, tour y FAQ**, y todo el panel se conecta directo con los **agentes de Luna**: el agente de control coordina el estado y la supervisión del sistema.
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_control_1_overview.png" width="100%"/>
+  <br><sub><b>📊 Vista general</b></sub>
+</td>
+<td align="center" width="50%">
+  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_control_2_grupos.png" width="100%"/>
+  <br><sub><b>👥 Gestión de grupos</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_control_3_extras.png" width="100%"/>
+  <br><sub><b>🧰 Herramientas extra</b></sub>
+</td>
+<td align="center" width="50%">
+  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_control_4_masfunciones.png" width="100%"/>
+  <br><sub><b>⚙️ Más funciones</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -665,46 +704,6 @@ Luna tiene **dos capas de caché persistente** que sobreviven a reinicios del se
 > Podés ver el menú completo de la IA con el comando `.iamenu`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-
-## 🛰️ Torre de Control — Panel Web
-
-<br>
-
-*Administrá a Luna desde un panel central: grupos, usuarios, comandos y mucho más.*
-
-</div>
-
-La **Torre de Control** es el panel web central de Luna: todo el sistema se administra desde un solo lugar. Desde ahí vinculás el bot (QR o código), gestionás **grupos y chats**, **usuarios**, **comandos**, frases, owners, música y hasta reiniciás el bot en remoto.
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_control_1_overview.png" width="100%"/>
-  <br><sub><b>📊 Vista general</b></sub>
-</td>
-<td align="center" width="50%">
-  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_control_2_grupos.png" width="100%"/>
-  <br><sub><b>👥 Gestión de grupos</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_control_3_extras.png" width="100%"/>
-  <br><sub><b>🧰 Herramientas extra</b></sub>
-</td>
-<td align="center" width="50%">
-  <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_control_4_masfunciones.png" width="100%"/>
-  <br><sub><b>⚙️ Más funciones</b></sub>
-</td>
-</tr>
-</table>
-
-> [!TIP]
-> Todo lo del panel se conecta directo con los **agentes de Luna**: el agente de control coordina el estado y la supervisión del sistema.
 
 ---
 
