@@ -90,11 +90,12 @@
 | 🔗 Sección | 🔗 Sección | 🔗 Sección |
 |:---:|:---:|:---:|
 | [📋 En Resumen](#-en-resumen) | [✨ ¿Qué es Luna Bot?](#-qué-es-luna-bot) | [🎬 Miralo en Acción](#-miralo-en-acción) |
-| [🛰️ Torre de Control](#-torre-de-control--panel-web) | [⚖️ Luna vs Otros Bots](#️-luna-vs-otros-bots) | [🔐 Seguridad y Privacidad](#-seguridad-y-privacidad) |
-| [🆕 Últimas Actualizaciones](#-últimas-actualizaciones) | [🟢 Estado del Servicio](#-estado-del-servicio) | [🎮 Juegos](#-juegos-disponibles) |
-| [🤖 Luna IA](#-luna-ia--inteligencia-artificial) | [🌟 Características](#-características) | [🛣️ Roadmap](#️-roadmap) |
-| [🚀 Instalación Rápida](#-instalación-rápida) | [⚙️ Configuración](#️-configuración) | [⚡ Actualizaciones del Bot](#-sistema-de-actualización-inteligente) |
-| [🤝 Contribuir](#-contribuir) | [👨‍💻 Creador](#-creador) | [❤️ Apoyar el Proyecto](#️-apoyar-el-proyecto) |
+| [📺 Tutoriales en Video](#-tutoriales-en-video) | [🛰️ Torre de Control](#-torre-de-control--panel-web) | [⚖️ Luna vs Otros Bots](#️-luna-vs-otros-bots) |
+| [🔐 Seguridad y Privacidad](#-seguridad-y-privacidad) | [🆕 Últimas Actualizaciones](#-últimas-actualizaciones) | [🟢 Estado del Servicio](#-estado-del-servicio) |
+| [🤖 Luna IA](#-luna-ia--inteligencia-artificial) | [🌟 Características](#-características) | [🎮 Juegos](#-juegos-disponibles) |
+| [🛣️ Roadmap](#️-roadmap) | [🚀 Instalación Rápida](#-instalación-rápida) | [⚙️ Configuración](#️-configuración) |
+| [⚡ Actualizaciones del Bot](#-sistema-de-actualización-inteligente) | [🤝 Contribuir](#-contribuir) | [👨‍💻 Creador](#-creador) |
+| [❤️ Apoyar el Proyecto](#️-apoyar-el-proyecto) |  |  |
 
 </details>
 
@@ -190,6 +191,23 @@ const LunaBot = {
 > Estas son recreaciones ilustrativas de una conversación con Luna, armadas para mostrar el estilo de interacción. Pronto se subiran capturas reales.
 
 </div>
+
+---
+
+## 📺 Tutoriales en Video
+
+<div align="center">
+
+*Lo mejor para entender a Luna: mirala en acción con tus propios ojos.*
+
+</div>
+
+| | | |
+|:---:|:---:|:---:|
+| [![Conocé a LUNA](https://img.youtube.com/vi/BCmXNnhr7UU/maxresdefault.jpg)](https://youtube.com/shorts/BCmXNnhr7UU)<br><sub><b>🌙 Conocé a LUNA</b></sub> | [![Reenvío automático de canales](https://img.youtube.com/vi/i-sRaXl9Sw8/maxresdefault.jpg)](https://youtube.com/shorts/i-sRaXl9Sw8)<br><sub><b>📡 Reenvío automático de canales</b></sub> | [![Comandos desde la torre](https://img.youtube.com/vi/78VZbGj4FSE/maxresdefault.jpg)](https://youtube.com/shorts/78VZbGj4FSE)<br><sub><b>🛰️ Creá comandos desde la torre</b></sub> |
+
+> [!NOTE]
+> Videos cortos oficiales del canal [Luna-Botv6-Project](https://www.youtube.com/@LunaBotv6) — clic en la miniatura para reproducirlo.
 
 ---
 
@@ -474,6 +492,11 @@ Luna no es un solo bloque: por dentro trabaja con **varios agentes especializado
 - **🛰️ Agente de control** — coordina todo desde la torre de control: orden, estado y supervisión.
 
 > Sin importar la hora ni la carga, Luna **siempre tiene un agente listo para responderte**.
+
+> [!IMPORTANT]
+> 💚 Los **agentes de Luna** —música y descargas, inteligencia y torre de control— son **100% gratis para todos los que usan Luna**.
+>
+> 🌙 Para que el bot funcione **al 100% y con todo compatible**, Luna está diseñada para **BoxMine**: creás una cuenta **gratis**, vinculás tu **correo electrónico** y **Discord**, y listo — todo queda activo.
 
 ---
 
@@ -1149,14 +1172,47 @@ Luna-Botv6-Project/
 
 ## ⚡ Sistema de Actualización Inteligente
 
+<div align="center">
+
+*Luna se mantiene sola: actualizaciones suaves, con respaldo y sin dolor.*
+
+</div>
+
+Luna se actualiza desde su propio repositorio **sin que tengas que reinstalar nada**: detecta versiones nuevas, protege tu configuración y conserva backups automáticos por si necesitás volver atrás.
+
+### ☁️ En BoxMine es aún más simple
+
+Con BoxMine **ni pensás en actualizar**: ponés una sola vez
+
+```
+.restart
+```
+
+y Luna hace todo sola:
+
+1. 🔄 **Trae** la última versión del repositorio
+2. 📦 **Actualiza** las dependencias automáticamente
+3. 🌙 **Reinicia** y te avisa cuando está de vuelta
+
+Al volver a iniciar, Luna te pregunta si querés que se **auto-actualice sola** de ahora en más:
+
+- ✅ `.autoupdateon` — activás el modo automático (revisa cada 30 minutos y se actualiza sola cuando hay versión nueva)
+- ❌ `.autoupdateoff` — preferís revisar y actualizar vos mismo
+
+### 🔧 Comandos de actualización
+
 | Comando | Función | Riesgo |
 |:-------:|:--------|:------:|
-| `/actualizacion` | Verifica updates disponibles | 🟢 Ninguno |
-| `/gitpull` | Actualiza todo | 🟡 Medio |
-| `/gitpull --force` | Fuerza actualización | 🔴 Alto |
-| `/gitpull omite` | Actualiza protegiendo config | 🟢 Bajo |
-| `/restaurar` | Restaura backup | 🟢 Bajo |
-| `/eliminarbackup` | Elimina backups | 🟢 Ninguno |
+| `.actualizacion` | Verifica si hay versiones nuevas | 🟢 Ninguno |
+| `.gitpull` | Actualiza todo | 🟡 Medio |
+| `.gitpull --force` | Fuerza la actualización | 🔴 Alto |
+| `.gitpull omite` | Actualiza protegiendo la config | 🟢 Bajo |
+| `.restart` | Actualiza y reinicia (el camino BoxMine) | 🟢 Bajo |
+| `.restaurar` | Restaura un backup | 🟢 Bajo |
+| `.eliminarbackup` | Limpia los backups | 🟢 Ninguno |
+
+> [!TIP]
+> Recordá que el prefijo puede cambiar según tu configuración — `.` es el predeterminado.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
