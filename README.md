@@ -194,12 +194,6 @@ const LunaBot = {
 ---
 
 <div align="center">
-
-## 🛰️ Torre de Control — Panel Web
-
-</div>
-
-<div align="center">
 <a name="-torre-de-control--panel-web"></a>
 
 <img src="https://raw.githubusercontent.com/Luna-botv6/base-archivos/main/src/assets/images/lm/torre_titulo.svg" alt="Torre de Control — Panel Web" width="760"/>
